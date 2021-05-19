@@ -31,7 +31,7 @@ This repo provides the study material for placements
 ### System Design
 - Gaurav Sen [System Design]
 
-## C++
+### C++
 - [STL] 
 - C++ Interview Questions [cpp]
 
