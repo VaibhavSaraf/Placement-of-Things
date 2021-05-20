@@ -2,6 +2,12 @@
 
 This repo provides the study material for placements
 
+### Online coding Platform
+
+- [Interviewbit]
+- [leetcode]
+- [CSES] (required own compiler or other web compiler)
+
 ### Data Structures and Algorithms
 
 - Cracking the coding Interview [CTCI]
@@ -61,4 +67,7 @@ This repo provides the study material for placements
    [STL]: <https://www.youtube.com/playlist?list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA>
    [cpp]: <https://www.youtube.com/playlist?list=PLk6CEY9XxSIDy8qVHZV-Nf-r9f2BkRZ6p>
    [Puzzles]: <https://www.geeksforgeeks.org/puzzles/>
+   [Interviewbit]: <https://www.interviewbit.com/>
+   [leetcode]: <https://leetcode.com/>
+   [CSES]: <https://cses.fi/>
    
